@@ -25,4 +25,6 @@ In this project I started by created each test first and then creating the code 
 
 This would only create bigrams after the first word of each sentence.  The delimiter that was used was a space for each word.
 
+This will also create a histogram of the string that is passed in.  To show a larger section of this histogram I used part of the Gettysburg address.  I have also attached the histogram.html of what was run after the test to see how it looked.
+
 This doesn't take into account special characters in the word or at the beginning or end of the word.  This doesn't take into account apostrophes or hyphens.
